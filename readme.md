@@ -39,3 +39,19 @@ To run the unit tests and watch for file changes during development, run:
 ```
 npm run test.watch
 ```
+
+## Deploy to Azure Static Web Apps
+
+Follow the quick [Getting Started](https://bit.ly/2ABy9Cb![screenshot-1589921212097](https://user-images.githubusercontent.com/1699357/82376694-c3a29880-9a22-11ea-887c-f1330b13a1b6.png)
+) guide for Azure Static Web Apps and use the following configuration:
+
+![screenshot-1589919283815](https://user-images.githubusercontent.com/1699357/82375928-a28d7800-9a21-11ea-8b9b-1648e46f6048.png)
+
+
+![screenshot-1589919296064](https://user-images.githubusercontent.com/1699357/82375745-4de9fd00-9a21-11ea-8534-37a5f42059c1.png)
+
+![screenshot-1589919311088](https://user-images.githubusercontent.com/1699357/82375732-4b87a300-9a21-11ea-8e89-d78fe65454d0.png)
+
+Once you build is done. You should get the generated URL for your app:
+![screenshot-1589921212097](https://user-images.githubusercontent.com/1699357/82376815-fa78ae80-9a22-11ea-8148-ee025d06df25.png)
+
